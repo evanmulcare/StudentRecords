@@ -1,0 +1,163 @@
+.root {
+    -fx-background-color:"#f6f6f6";
+     font-family: "Verdana";
+
+}
+
+.table-view{
+   -fx-background-color: transparent;
+}
+
+.table-view:focused{
+    -fx-background-color: transparent;
+}
+
+.table-view .column-header-background .label{
+ -fx-background-color: #48a0db;
+  -fx-text-fill: #fff;
+}
+
+.table-view .column-header {
+    -fx-background-color:  #48a0db;
+}
+
+.table-view .table-cell{
+    -fx-alignment: CENTER;
+}
+
+.table-row-cell{
+    -fx-background-color: #fff;
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-padding: 0.0em; /* 0 */
+}
+
+.table-row-cell:odd{
+    -fx-background-color: #fafafa;
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-padding: 0.0em; /* 0 */
+}
+
+.grid-row{
+    -fx-background-color: #fff;
+}
+.grid-row:nth-child(odd) {
+     -fx-background-color: #f0f0f0;
+ }
+
+.table-row-cell:selected {
+    -fx-background-color: #005797;
+    -fx-text-fill: white;
+    -fx-background-insets: 0;
+    -fx-background-radius: 1;
+}
+
+Label
+{
+    -fx-padding: 10px;
+ }
+
+ .text {
+    -fx-font-family: 'Lucida Sans Unicode', sans-serif;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #888888;
+}
+
+.button {
+    -fx-background-color: #48a0db; /* Set the background color */
+    -fx-padding: 8px 16px; /* Set the padding */
+    -fx-border-radius: 4px; /* Set the border radius */
+    -fx-cursor: hand; /* Set the cursor style */
+
+    -fx-text-fill: #FFFFFF; /* Set the text color */
+    -fx-font-size: 14px; /* Set the font size */
+    -fx-font-family: 'Open Sans', sans-serif;
+    -fx-font-weight: bold;
+    -fx-text-alignment: center;
+    -fx-effect: dropshadow( one-pass-box , rgba(0,0,0,0.5) , 0, 0.0 , 0 , 1 );
+}
+
+.button:hover {
+    -fx-background-color: #80c4f1; /* Set the hover background color */
+}
+
+.button:pressed {
+    -fx-background-color: #3b7ca7; /* Set the pressed background color */
+}
+
+.Heading {
+    -fx-background-color: #173d79;
+}
+
+.tab-header-area .tab-header-background {
+ 	-fx-background-color: #fff;
+}
+.tab-pane .tab:selected {
+	-fx-background-color: #f6f6f6;
+	-fx-background-insets: 0 0 0 0;
+	-fx-background-radius: 0 0 0 0;
+}
+.tab  *.tab-label {
+ 	-fx-alignment: CENTER;
+	-fx-text-fill: black;
+	-fx-font-weight: bold;
+	-fx-padding: 0 10 0 10;
+	 -fx-rotate: 90;
+}
+.tab-pane:top *.tab-header-area {
+	-fx-padding: 0 0 0 30;
+}
+
+.tab-pane .tab {
+	-fx-background-color: transparent;
+	-fx-padding: 3em 0.5em 3em 0.5em;
+}
+.tab-pane:focused .tab-header-area .headers-region .tab:selected .focus-indicator {
+ 	-fx-border-width: 0;
+	-fx-border-insets: 0 0 0 0;
+	-fx-border-radius: 0;
+}
+
+.tab-header-background {
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-background-radius: 0;
+}
+
+.tab .tab-label {
+    -fx-padding: 0 20 0 20;
+}
+
+.choice-box {
+    -fx-background-color: #FFFFFF; /* Set the background color */
+    -fx-border-color: #CCCCCC; /* Set the border color */
+    -fx-border-radius: 4px; /* Set the border radius */
+}
+
+.choice-box .label {
+    -fx-text-fill: #333333; /* Set the text color */
+    -fx-font-size: 14px; /* Set the font size */
+}
+
+.choice-box .arrow-button {
+    -fx-background-color: transparent; /* Remove the background color */
+}
+
+.choice-box .arrow {
+    -fx-background-color: #333333; /* Set the arrow color */
+}
+
+.choice-box .arrow:hover {
+    -fx-background-color: #666666; /* Set the arrow hover color */
+}
+
+#newBox {
+    -fx-border-color: transparent;
+    -fx-border-width: 1px;
+    -fx-border-style: solid;
+}
+
+#newBox:focused {
+    -fx-border-color: fff;
+    -fx-border-width: 2px;
+    -fx-border-style: solid;
+}

@@ -1,0 +1,33 @@
+package com.mtu.studentrecords;
+
+import com.mtu.studentrecords.View.SidebarView;
+import javafx.scene.Scene;
+import javafx.scene.layout.BorderPane;
+import javafx.stage.Stage;
+import javafx.stage.StageStyle;
+public class MainUI {
+    public MainUI() {
+        buildUI();
+    }
+
+    private void buildUI() {
+        Stage stage = new Stage(StageStyle.DECORATED);
+        BorderPane root = new BorderPane();
+
+        SidebarView sidebarView = new SidebarView();
+
+        root.setCenter(sidebarView);
+        Scene scene = new Scene(root);
+
+        sidebarView.prefWidthProperty().bind(scene.widthProperty());
+        sidebarView.prefHeightProperty().bind(scene.heightProperty());
+
+        String css = this.getClass().getResource("styles.css").toExternalForm();
+        scene.getStylesheets().add(css);
+
+        stage.setMaximized(true);
+        stage.setTitle("Student Records");
+        stage.setScene(scene);
+        stage.show();
+    }
+}

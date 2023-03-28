@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="AssignmentThree_EvanMulcare:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef65fc51-917a-4ce3-8c7c-1834f6d8354f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MC2fDisbfXa6XZpFMVjsijEaI5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/evanmulcare/Desktop/AssignmentThreeEvanMulcare/AssignmentThree_EvanMulcare",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/images" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/mtu/studentrecords/View" />
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/mtu/studentrecords" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.mtu.studentrecords" />
+      <recent name="com.mtu.studentrecords.View" />
+      <recent name="com.example.ugh" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JAR Application.AssignmentThree_EvanMulcare.jar (1)">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mtu.studentrecords.Main" />
+      <module name="AssignmentThree_EvanMulcare" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainFX" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mtu.studentrecords.MainFX" />
+      <module name="AssignmentThree_EvanMulcare" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mtu.studentrecords.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidateModuleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AssignmentThree_EvanMulcare" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mtu.studentrecords.TestSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mtu.studentrecords.TestSuite" />
+      <option name="MAIN_CLASS_NAME" value="com.mtu.studentrecords.TestSuite.ValidateModuleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidateStudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AssignmentThree_EvanMulcare" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mtu.studentrecords.TestSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mtu.studentrecords.TestSuite" />
+      <option name="MAIN_CLASS_NAME" value="com.mtu.studentrecords.TestSuite.ValidateStudentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssignmentThree_EvanMulcare-1.0-SNAPSHOT-shaded.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/AssignmentThree_EvanMulcare-1.0-SNAPSHOT-shaded.jar" />
+      <option name="VM_PARAMETERS" value="--module-path /path/to/JavaFX/lib --add-modules=javafx.controls " />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AssignmentThree_EvanMulcare.jar (1)" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/AssignmentThree_EvanMulcare_jar/AssignmentThree_EvanMulcare.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="StudentRecords.AssignmentOne.EvanMulcare" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="StudentRecords.AssignmentOne.EvanMulcare" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainFX" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JAR Application.AssignmentThree_EvanMulcare-1.0-SNAPSHOT-shaded.jar" />
+      <item itemvalue="JAR Application.AssignmentThree_EvanMulcare.jar (1)" />
+      <item itemvalue="JUnit.ValidateModuleTest" />
+      <item itemvalue="JUnit.ValidateStudentTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.AssignmentThree_EvanMulcare.jar (1)" />
+        <item itemvalue="JUnit.ValidateStudentTest" />
+        <item itemvalue="JUnit.ValidateModuleTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JAR Application.AssignmentThree_EvanMulcare-1.0-SNAPSHOT-shaded.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef65fc51-917a-4ce3-8c7c-1834f6d8354f" name="Changes" comment="" />
+      <created>1677257346742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677257346742</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
